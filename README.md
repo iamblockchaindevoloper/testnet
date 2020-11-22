@@ -1,0 +1,2 @@
+# testnet
+bitcoin
